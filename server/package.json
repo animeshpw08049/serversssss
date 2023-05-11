@@ -18,7 +18,7 @@
     "multer-gridfs-storage": "^5.0.2"
   },
   "scripts": {
-     "build": "echo \"No build specified\" && exit 1",
+    "build": "echo \"No build specified\" && exit 1",
     "test": "echo \"No test specified\" && exit 1",
     "start": "node index.js"
   },
@@ -26,5 +26,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animeshpw08049/serversssss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/animeshpw08049/serversssss/issues"
+  },
+  "homepage": "https://github.com/animeshpw08049/serversssss#readme"
 }
