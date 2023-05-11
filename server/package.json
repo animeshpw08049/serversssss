@@ -1,6 +1,7 @@
 {
-  "name": "server",
+  "name": "serversssss",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "dependencies": {
@@ -18,14 +19,14 @@
     "multer-gridfs-storage": "^5.0.2"
   },
   "scripts": {
-    
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1",
     "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {},
-  "description": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/animeshpw08049/serversssss.git"
